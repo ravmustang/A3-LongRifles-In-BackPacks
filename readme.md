@@ -1,11 +1,8 @@
 ////////////////////////////////////////////////////////////////////
 //	config.cpp
-//	
 //	DonkeyPunch Arma 3 Sniper Rifles in Large Capacity Backpacks
 //	2016 by DirtySanchez (aka. =RAV=MusTanG)
-//	
 //	http://DonkeyPunch.INFO
-//	
 //	The contents of this file are under the following license:
 //	Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 //	http://creativecommons.org/licenses/by-nc-nd/4.0/
